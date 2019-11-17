@@ -8,4 +8,6 @@ It will take a couple seconds until a message is retrieved. Currently does not w
 
 Download link for Firefox: https://addons.mozilla.org/en-US/firefox/addon/random-good-sign-off/
 
+Browser extension is not affiliated with the Good Sign-Offs channel maintainers; in case you have technical questions or feedback, please open an issue on this Github repo.
+
 Extension icon is from Feather https://feathericons.com/
