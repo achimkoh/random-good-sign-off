@@ -1,4 +1,4 @@
-# A Random Good Sign-off for your Gmail
+# A Random Good Sign-Off for your Gmail
 
 ![screen recording of a gmail editor interface. the subject reads "hey"; the content reads "have a wonderful day." the mouse cursor clicks on a pen-shaped icon, and a sign-off message that reads "mango slices and lakes to lounge in" appears. the sign-off message links to the original Are.na url](demo.gif)
 
