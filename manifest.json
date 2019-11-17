@@ -1,0 +1,33 @@
+{
+  "manifest_version": 2,
+  "name": "Random Good Sign-Off",
+  "version": "0.1",
+
+  "description": "Click the extension button to insert a good sign-off message randomly chosen from Meg Miller and Hannah Barbera's Are.na channel https://www.are.na/meg-miller/good-sign-offs to your gmail editor",
+  "homepage_url": "https://github.com/achimkoh/random-good-sign-off",
+  "icons": {
+    "48": "icons/signoff-48.png",
+    "96": "icons/signoff-96.png"
+  },
+
+  "permissions": [
+    "activeTab",
+    "*://*.are.na/*"
+  ],
+
+  "browser_action": {
+    "default_icon": "icons/signoff-48.png",
+    "default_title": "Random Good Sign-Off"
+  },
+
+  "background": {
+    "scripts": ["scripts/background.js"]
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["https://mail.google.com/*", "http://mail.google.com/*"],
+      "js": ["scripts/signoff.js"]
+    }
+  ]
+}
