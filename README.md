@@ -2,7 +2,7 @@
 
 ![screen recording of a gmail editor interface. the subject reads "hey"; the content reads "have a wonderful day." the mouse cursor clicks on a pen-shaped icon, and a sign-off message that reads "mango slices and lakes to lounge in" appears. the sign-off message links to the original Are.na url](demo.gif)
 
-The Good Sign-Offs Are.na channel (https://www.are.na/meg-miller/good-sign-offs) maintained by Meg Miller and Hannah Barbera contains numerous sign-off messages ranging from conventional to witty, for your email writing pleasure.
+The Good Sign-Offs Are.na channel (https://www.are.na/meg-miller/good-sign-offs) maintained by Meg Miller and Hannah Barbera contains numerous sign-off messages ranging from conventional to witty to heartwarming, for your email writing pleasure.
 
 When you click on the extension icon, the browser extension queries the Are.na API for a random message in this channel, then inserts the message to your cursor's position in your Gmail editor.
 
