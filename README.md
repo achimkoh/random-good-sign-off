@@ -2,7 +2,7 @@
 
 The Good Sign-Offs Are.na channel (https://www.are.na/meg-miller/good-sign-offs) maintained by Meg Miller and Hannah Barbera contains numerous sign-off messages ranging from conventional to witty, for your email writing pleasure.
 
-This browser extension queries the Are.na API for a random message in this channel, then inserts the message to your cursor's position in your Gmail editor.
+When you click on the extension icon, the browser extension queries the Are.na API for a random message in this channel, then inserts the message to your cursor's position in your Gmail editor.
 
 It will take a couple seconds until a message is retrieved. Currently does not work anywhere else than Gmail. Largely experimental work as of yet.
 
